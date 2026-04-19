@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+## 🍳 Cookbook UI/UX Design (Figma)
 
-## Project info
+### 📌 Overview
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project is a complete **Figma-based UI/UX design** for a web platform called **Cookbook**, focused on food recipe sharing.
+It provides a clean and structured interface where users can:
 
-## How can I edit this code?
+* Add their own recipes
+* Explore dishes from others
+* Follow simple steps to cook
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+### 🎯 Design Focus
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+The main focus of this design was:
 
-Changes made via Lovable will be committed automatically to this repo.
+* **Usability** → Easy to understand and interact
+* **User Flow** → Smooth journey from discovery → details → sharing
+* **Clean Layout** → Organized and readable interface
+* **Navigation** → Simple and intuitive
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* Recipe browsing interface
+* Recipe detail view
+* User-friendly submission flow
+* Structured and minimal UI design
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### 🖼️ Screenshots
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+> Add your images below (replace with your actual image paths)
 
-# Step 3: Install the necessary dependencies.
-npm i
+![Home Page]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223700.png")
+![Add Recipe]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223734.png")
+![Recipe Details]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223743.png")
+![Profile]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223803.png")
+![Add Recipe]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223749.png")
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+### 🎨 Tools Used
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* Figma
+* UI/UX Design Principles
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 🚀 Demo
 
-## What technologies are used for this project?
+[![Watch Demo](https://img.youtube.com/vi/jBf_TcsDPIE/0.jpg)](https://youtu.be/jBf_TcsDPIE)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 📖 Description
 
-## How can I deploy this project?
+This design emphasizes a smooth and engaging experience for users who want to discover and share recipes. Each section is carefully structured to guide users naturally through the platform, improving usability and overall experience.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
