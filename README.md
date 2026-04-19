@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://youtu.be/jBf_TcsDPIE">
-    <img src="https://img.youtube.com/vi/jBf_TcsDPIE/0.jpg" width="70%" />
+    <img src=https://github.com/user-attachments/assets/330b369e-128d-4480-80c0-d49d162b2fa2 />
   </a>
 </p>
 
@@ -75,18 +75,19 @@ A simple, frictionless flow designed for all users.
 ---
 
 ## 🖼️ UI Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64fbff90-ab6b-4b4a-be3f-c561cbabe142" width="45%" />
+  <img src="https://github.com/user-attachments/assets/79c9d65d-5153-4423-b97d-13481e2d388c" width="45%" />
+</p>
 
-### 🖼️ Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab601a20-eec1-4ecc-9719-48e7649a5843" width="45%" />
+  <img src="https://github.com/user-attachments/assets/101f4389-39dc-4781-8564-253188051d8b" width="45%" />
+</p>
 
-
-<img width="372" height="1023" alt="Screenshot 2026-04-11 223700" src="https://github.com/user-attachments/assets/64fbff90-ab6b-4b4a-be3f-c561cbabe142" />
-<img width="378" height="835" alt="Screenshot 2026-04-11 223734" src="https://github.com/user-attachments/assets/79c9d65d-5153-4423-b97d-13481e2d388c" />
-<img width="380" height="505" alt="Screenshot 2026-04-11 223749" src="https://github.com/user-attachments/assets/ab601a20-eec1-4ecc-9719-48e7649a5843" />
-<img width="382" height="566" alt="Screenshot 2026-04-11 223743" src="https://github.com/user-attachments/assets/101f4389-39dc-4781-8564-253188051d8b" />
-<img width="667" height="788" alt="Screenshot 2026-04-11 223803" src="https://github.com/user-attachments/assets/6b661ceb-1db7-46d8-8f8e-e7e21d36135c" />
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b661ceb-1db7-46d8-8f8e-e7e21d36135c" width="60%" />
+</p>
 
 
 ---
