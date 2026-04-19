@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Star, Clock, Heart } from "lucide-react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { recipes } from "@/data/recipes";
 
 const popularRecipes = recipes.filter((r) => r.popular);
@@ -19,9 +19,9 @@ const PopularRecipes = () => {
               Most popular recipes this week
             </p>
           </div>
-          <button className="text-sm font-medium text-primary hover:underline">
+          <Link to="/recipes" className="text-sm font-medium text-primary hover:underline">
             View All →
-          </button>
+          </Link>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
