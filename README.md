@@ -40,6 +40,14 @@ C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223700.png
 ![Recipe Details]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223743.png")
 ![Profile]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223803.png")
 ![Add Recipe]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223749.png")
+/image
+
+## 🖼️ UI Preview  
+
+![Add Recipe](images/add.png)  
+![Recipe Details](images/details.png)  
+![Profile](images/profile.png)  
+![Explore](images/recipe.png)
 
 ---
 
