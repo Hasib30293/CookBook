@@ -138,7 +138,7 @@ npm start
 
 ## 🔗 Figma File
 
-👉 https://lnkd.in/gWbzt6Br
+👉 https://www.figma.com/proto/OTWCdNlbFpUHkXsiXmNUBp/Web-Project?page-id=0%3A1&node-id=127-10751&viewport=1164%2C289%2C0.11&t=9nh4pt1LoymVaTQX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=107%3A438
 
 ---
 
