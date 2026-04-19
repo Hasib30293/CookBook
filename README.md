@@ -1,4 +1,4 @@
-## 🍳 Cookbook UI/UX Design (Figma)
+## 🍳 Cookbook 
 
 ### 📌 Overview
 
@@ -35,7 +35,7 @@ The main focus of this design was:
 
 > Add your images below (replace with your actual image paths)
 
-![Home Page]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223700.png")
+C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223700.png
 ![Add Recipe]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223734.png")
 ![Recipe Details]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223743.png")
 ![Profile]("C:\Users\USER\Pictures\Screenshots\Screenshot 2026-04-11 223803.png")
@@ -50,9 +50,6 @@ The main focus of this design was:
 
 ---
 
-### 🚀 Demo
-
-[![Watch Demo](https://img.youtube.com/vi/jBf_TcsDPIE/0.jpg)](https://youtu.be/jBf_TcsDPIE)
 
 ---
 
