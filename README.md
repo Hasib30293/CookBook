@@ -1,12 +1,10 @@
 # 🍳 Cookbook — UI/UX Design & Web App
 
-<p align="center">
-  <b>A modern recipe-sharing platform designed and built for simplicity, usability, and real-world interaction.</b>
-</p>
+## 🎬 Demo Video
 
 <p align="center">
-  <a href="https://youtu.be/jBf_TcsDPIE">
-    <img src=https://github.com/user-attachments/assets/330b369e-128d-4480-80c0-d49d162b2fa2 />
+  <a href="https://youtu.be/ylEoJL2UAqw">
+    <img src="https://img.youtube.com/vi/ylEoJL2UAqw/0.jpg" width="70%" />
   </a>
 </p>
 
