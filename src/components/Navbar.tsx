@@ -8,7 +8,7 @@ import { useToast } from "@/hooks/use-toast";
 const navLinks = [
   { label: "Home", to: "/" },
   { label: "Recipes", to: "/recipes" },
-  { label: "Community", to: "/recipes" },
+  { label: "Community", to: "/community" },
   { label: "About", to: "/" },
 ];
 

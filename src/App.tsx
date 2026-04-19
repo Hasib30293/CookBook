@@ -7,6 +7,7 @@ import { AuthProvider } from "@/hooks/useAuth";
 import Index from "./pages/Index.tsx";
 import RecipeDetail from "./pages/RecipeDetail.tsx";
 import Recipes from "./pages/Recipes.tsx";
+import Community from "./pages/Community.tsx";
 import Auth from "./pages/Auth.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
@@ -22,6 +23,7 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/recipes" element={<Recipes />} />
+            <Route path="/community" element={<Community />} />
             <Route path="/recipe/:id" element={<RecipeDetail />} />
             <Route path="/auth" element={<Auth />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
