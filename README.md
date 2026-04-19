@@ -1,35 +1,80 @@
-## 🍳 Cookbook 
+# 🍳 Cookbook — UI/UX Design & Web App
 
-### 📌 Overview
+<p align="center">
+  <b>A modern recipe-sharing platform designed and built for simplicity, usability, and real-world interaction.</b>
+</p>
 
-This project is a complete **Figma-based UI/UX design** for a web platform called **Cookbook**, focused on sharing food recipes.
-It provides a clean and structured interface where users can:
-
-* Add their own recipes
-* Explore dishes from others
-* Follow simple steps to cook
-
----
-
-### 🎯 Design Focus
-
-The main focus of this design was:
-
-* **Usability** → Easy to understand and interact
-* **User Flow** → Smooth journey from discovery → details → sharing
-* **Clean Layout** → Organized and readable interface
-* **Navigation** → Simple and intuitive
+<p align="center">
+  <a href="https://youtu.be/jBf_TcsDPIE">
+    <img src="https://img.youtube.com/vi/jBf_TcsDPIE/0.jpg" width="70%" />
+  </a>
+</p>
 
 ---
 
-### ✨ Features
+## 🚀 Overview
 
-* Recipe browsing interface
-* Recipe detail view
-* User-friendly submission flow
-* Structured and minimal UI design
+**Cookbook** started as a **UI/UX design in Figma** and evolved into a **functional web application** where users can:
+
+* Discover recipes 🍲
+* View detailed cooking steps 📄
+* Share their own recipes ➕
+
+The goal was to bridge **design → real implementation**.
 
 ---
+
+## 🌐 Live Website
+
+👉 *(Add your deployed link here — VERY IMPORTANT)*
+Example:
+
+```
+https://your-project.vercel.app
+```
+
+---
+
+## 🎯 Design Goals
+
+* ✨ Minimal and clean interface
+* 🧭 Intuitive navigation
+* 🔄 Smooth user experience
+* 📖 Readable content layout
+* 💡 User-centered design
+
+---
+
+## 🧠 UX Strategy
+
+> 🔍 Discover → 📋 Explore → 🍳 Cook → ✍️ Share
+
+A simple, frictionless flow designed for all users.
+
+---
+
+## 🛠️ Tech Stack
+
+*(Edit based on what you used)*
+
+* Frontend: HTML / CSS / JavaScript
+* Framework: React / Next.js *(if used)*
+* Styling: Tailwind CSS / CSS
+* Design: Figma
+
+---
+
+## ✨ Features
+
+* 🍲 Browse recipes
+* 🔎 Explore different dishes
+* 📄 View recipe details
+* ➕ Add your own recipe
+* 🎯 Clean and responsive UI
+
+---
+
+## 🖼️ UI Preview
 
 ### 🖼️ Screenshots
 
@@ -46,18 +91,64 @@ The main focus of this design was:
 
 ---
 
-### 🎨 Tools Used
+## ⚙️ Installation & Setup
 
-* Figma
-* UI/UX Design Principles
+```bash
+# Clone the repository
+git clone https://github.com/Hasib30293/CookBook.git
+
+# Go to project folder
+cd CookBook
+
+# Install dependencies (if using React)
+npm install
+
+# Run the project
+npm start
+```
 
 ---
 
+## 🧩 Design Process
+
+1. 🧠 Research
+2. ✏️ Wireframing
+3. 🎨 UI Design (Figma)
+4. 💻 Development
+5. 🔄 Iteration
 
 ---
 
-### 📖 Description
+## 📚 What I Learned
 
-This design emphasizes a smooth and engaging experience for users who want to discover and share recipes. Each section is carefully structured to guide users naturally through the platform, improving usability and overall experience.
+* Turning **UI design into real product**
+* Improving **UX through implementation**
+* Building **clean and scalable UI**
+* Managing **design-to-code workflow**
 
 ---
+
+## 🌟 Highlights
+
+* UI → Website transformation
+* Clean modern interface
+* Strong UX flow
+* Beginner-friendly design
+
+---
+
+## 🔗 Figma File
+
+👉 *(Add your Figma link here)*
+
+---
+
+## 📬 Feedback
+
+Feel free to share suggestions or improvements!
+
+---
+
+<p align="center">
+  ⭐ Star this repo if you like the project!
+</p>
