@@ -1,4 +1,5 @@
 import { AnimatePresence, motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import RecipeCard from "./RecipeCard";
 import type { Recipe } from "@/data/recipes";
 
@@ -15,9 +16,12 @@ const RecipeGrid = ({ recipes, category }: RecipeGridProps) => {
           <h2 className="text-2xl font-display font-bold text-foreground">
             {category === "All" ? "All Recipes" : category}
           </h2>
-          <button className="text-sm font-medium text-primary hover:underline">
+          <Link
+            to={category === "All" ? "/recipes" : `/recipes?category=${encodeURIComponent(category)}`}
+            className="text-sm font-medium text-primary hover:underline"
+          >
             View All →
-          </button>
+          </Link>
         </div>
 
         <motion.div
