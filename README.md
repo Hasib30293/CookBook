@@ -138,7 +138,7 @@ npm start
 
 ## 🔗 Figma File
 
-👉 *(Add your Figma link here)*
+👉 https://lnkd.in/gWbzt6Br
 
 ---
 
