@@ -2,11 +2,11 @@
 
 ## 🎬 Demo Video
 
-<p align="center">
-  <a href="https://youtu.be/ylEoJL2UAqw">
-    <img src="https://img.youtube.com/vi/ylEoJL2UAqw/0.jpg" width="90%" />
+<div align="center">
+  <a href="https://youtu.be/dbNmfc7hLMU">
+    <img src="https://img.youtube.com/vi/dbNmfc7hLMU/0.jpg" width="90%" />
   </a>
-</p>
+</div>
 
 ---
 
