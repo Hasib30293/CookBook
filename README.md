@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://youtu.be/dbNmfc7hLMU">
-    <img src="https://img.youtube.com/vi/dbNmfc7hLMU/0.jpg" width="90%" />
+    <img src="https://img.youtube.com/vi/dbNmfc7hLMU/0.jpg" width="70%" />
   </a>
 </div>
 
