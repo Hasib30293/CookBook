@@ -24,7 +24,7 @@ The goal was to bridge **design → real implementation**.
 
 ## 🌐 Live Website
 
-👉 *(Add your deployed link here — VERY IMPORTANT)*
+👉 *(Add your deployed link here )*
 Example:
 
 ```
