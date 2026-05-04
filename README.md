@@ -9,7 +9,6 @@
 </div>
 
 ---
-
 ## 🚀 Overview
 
 **Cookbook** started as a **UI/UX design in Figma** and evolved into a **functional web application** where users can:
